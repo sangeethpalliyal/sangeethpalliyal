@@ -1,217 +1,23 @@
+<h1 align="center">Hi 👋, I'm Sangeeth Palliyal</h1>
+<h3 align="center">A passionate Fullstack developer from India</h3>
 
-<!--
-╔══════════════════════════════════════════════════════════════╗
-║                    PURPLE.EXE                                ║
-║              SANGEETH PALLIYAL — DEVELOPER PROFILE            ║
-╚══════════════════════════════════════════════════════════════╝
--->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sangeethpalliyal&label=Profile%20views&color=0e75b6&style=flat" alt="sangeethpalliyal" /> </p>
 
-<div align="center">
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sangeethpalliyal" alt="sangeethpalliyal" /></a> </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,35:5B21B6,70:8B5CF6,100:C4B5FD&height=220&section=header&text=SANGEETH%20PALLIYAL&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20JAVA%20%7C%20AI%20ENGINEERING&descSize=13&descAlignY=58&animation=fadeIn" width="100%" alt="Purple animated developer banner"/>
+- 📫 How to reach me **sangeethpalliyal1357@gmail.com**
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Initializing+Developer+Mode...;Building+with+Java+%26+Spring+Boot;Exploring+AI-powered+Applications;Turning+Ideas+into+Working+Software;Quest+Accepted%3A+Build+Something+Great!" alt="Animated typing introduction"/>
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=sangeethpalliyal&style=for-the-badge&color=7C3AED&label=PROFILE+VISITORS" alt="Profile visitor counter"/>
-<img src="https://img.shields.io/badge/STATUS-BUILDING%20THE%20FUTURE-8B5CF6?style=for-the-badge&labelColor=170B2C" alt="Developer status"/>
-<img src="https://img.shields.io/badge/CLASS-FULL--STACK%20DEVELOPER-A78BFA?style=for-the-badge&labelColor=170B2C" alt="Developer class"/>
-
-<br/><br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-Explore%20My%20Code-C4B5FD?style=for-the-badge&logo=github&logoColor=white&labelColor=170B2C)](https://github.com/sangeethpalliyal)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=170B2C)](https://linkedin.com/in/sangeeth-palliyal-06476a375)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Solve%20a%20Quest-A78BFA?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=170B2C)](https://leetcode.com/sangeethpalliyal1357)
-
-</div>
-
----
-
-## `01` // PLAYER PROFILE
-
-<img align="right" width="170" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animated developer coding"/>
-
-```yaml
-player: Sangeeth Palliyal
-class: Full-Stack Developer
-location: Kerala, India
-primary_language: Java
-backend: Spring Boot
-special_interest: AI-powered applications
-mindset: Learn -> Build -> Improve -> Repeat
-current_mission: Build software that matters
-```
-
-I'm a developer passionate about building practical applications, designing reliable backend systems, and exploring how AI can make software smarter.
-
-- ⚡ Building applications with Java and Spring Boot.
-- 🧠 Exploring AI integration and intelligent automation.
-- 🛠️ Interested in APIs, databases, and scalable application architecture.
-- 🎯 Always working to level up my development skills.
-- 🤝 Open to learning, collaboration, and interesting projects.
-
-<br clear="right"/>
-
----
-
-## `02` // SKILL TREE
-
-> Unlocking new abilities, one project at a time.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ⚔️ Backend Engineering
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring,maven&theme=dark" alt="Java, Spring, Maven"/>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sangeeth-palliyal-06476a375" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sangeeth-palliyal-06476a375" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sangeethpalliyal1357" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sangeethpalliyal1357" height="30" width="40" /></a>
 </p>
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-Exploring-7C3AED?style=flat-square&logo=springboot&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-Development-8B5CF6?style=flat-square)
-![Microservices](https://img.shields.io/badge/Microservices-Architecture-A78BFA?style=flat-square)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-</td>
-<td width="50%" valign="top">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sangeethpalliyal&show_icons=true&locale=en&layout=compact" alt="sangeethpalliyal" /></p>
 
-### 🎨 Frontend Development
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sangeethpalliyal&show_icons=true&locale=en" alt="sangeethpalliyal" /></p>
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" alt="HTML, CSS, JavaScript, React, Tailwind CSS"/>
-</p>
-
-![Responsive UI](https://img.shields.io/badge/Responsive_UI-Design-7C3AED?style=flat-square)
-![Web Apps](https://img.shields.io/badge/Web_Apps-Building-8B5CF6?style=flat-square)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 AI & Data
-
-<p>
-<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python"/>
-</p>
-
-![Spring AI](https://img.shields.io/badge/Spring_AI-Exploring-7C3AED?style=flat-square)
-![AI Integration](https://img.shields.io/badge/AI_Integration-Projects-8B5CF6?style=flat-square)
-![Automation](https://img.shields.io/badge/Automation-Learning-A78BFA?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧰 Developer Arsenal
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,mysql,mongodb,postgres,postman&theme=dark" alt="Git, GitHub, MySQL, MongoDB, PostgreSQL, Postman"/>
-</p>
-
-![Version Control](https://img.shields.io/badge/Git%20%26%20GitHub-Workflow-7C3AED?style=flat-square)
-![API Testing](https://img.shields.io/badge/API_Testing-Postman-8B5CF6?style=flat-square)
-
-</td>
-</tr>
-</table>
-
----
-
-## `03` // QUEST LOG
-
-<div align="center">
-
-| QUEST | OBJECTIVE | STATUS |
-|:---|:---|:---:|
-| 🟣 Backend Builder | Develop Java and Spring Boot applications | `IN PROGRESS` |
-| 🔮 AI Explorer | Integrate AI into useful applications | `IN PROGRESS` |
-| 🛡️ System Architect | Learn secure and maintainable application design | `IN PROGRESS` |
-| ⚡ Problem Solver | Improve programming and problem-solving skills | `DAILY QUEST` |
-
-</div>
-
-> Quest progress reflects my current learning goals, not an automated measurement of completed work.
-
----
-
-## `04` // FEATURED MISSIONS
-
-<div align="center">
-
-<a href="https://github.com/sangeethpalliyal?tab=repositories">
-  <img src="https://img.shields.io/badge/01-EXPLORE%20MY%20PROJECTS-7C3AED?style=for-the-badge&labelColor=170B2C" alt="Explore projects"/>
-</a>
-
-<br/>
-
-**Every repository is another opportunity to build, experiment, and improve.**
-
-Check out my repositories for application development, backend engineering, and AI-related experiments.
-
-</div>
-
-<!--
-For a project showcase, replace the section above with repository cards
-once you have selected your actual public project repositories.
--->
-
----
-
-## `05` // DEVELOPER STATISTICS
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sangeethpalliyal&show_icons=true&hide_border=true&bg_color=0D0221&title_color=C4B5FD&text_color=E9D5FF&icon_color=A78BFA&ring_color=8B5CF6&include_all_commits=true" alt="GitHub statistics"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangeethpalliyal&layout=compact&hide_border=true&bg_color=0D0221&title_color=C4B5FD&text_color=E9D5FF" alt="Most used programming languages"/>
-
-<br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=sangeethpalliyal&hide_border=true&background=0D0221&ring=8B5CF6&fire=C4B5FD&currStreakLabel=C4B5FD&sideLabels=A78BFA&currStreakNum=FFFFFF&sideNums=E9D5FF&dates=9CA3AF" alt="GitHub contribution streak"/>
-
-<br/><br/>
-
-<a href="https://github.com/sangeethpalliyal?tab=repositories">
-  <img src="https://github-profile-trophy.vercel.app/?username=sangeethpalliyal&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=4" width="90%" alt="GitHub achievement trophies"/>
-</a>
-
-</div>
-
----
-
-## `06` // CONTRIBUTION MATRIX
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/sangeethpalliyal/sangeethpalliyal/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution snake"/>
-
-</div>
-
----
-
-## `07` // CONNECT WITH THE PLAYER
-
-<div align="center">
-
-### Have an idea? Let's build something remarkable.
-
-<a href="mailto:sangeethpalliyal1357@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Start%20a%20Conversation-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=170B2C" alt="Email Sangeeth"/>
-</a>
-
-<a href="https://linkedin.com/in/sangeeth-palliyal-06476a375">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=170B2C" alt="LinkedIn profile"/>
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:5B21B6,100:8B5CF6&height=120&section=footer" width="100%" alt="Purple footer banner"/>
-
-**`GAME ON. KEEP BUILDING. KEEP EVOLVING.`**
-
-<sub>Designed with 💜 by Sangeeth Palliyal · Powered by curiosity and code.</sub>
-
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sangeethpalliyal&" alt="sangeethpalliyal" /></p>
