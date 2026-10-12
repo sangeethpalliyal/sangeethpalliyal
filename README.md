@@ -1,154 +1,217 @@
 
-<!-- ======================================================= -->
-<!--                 SANGEETH'S GITHUB PROFILE               -->
-<!-- ======================================================= -->
+<!--
+╔══════════════════════════════════════════════════════════════╗
+║                    PURPLE.EXE                                ║
+║              SANGEETH PALLIYAL — DEVELOPER PROFILE            ║
+╚══════════════════════════════════════════════════════════════╝
+-->
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090F,50:312E81,100:7C3AED&height=220&section=header&text=SANGEETH%20PALLIYAL&fontSize=40&fontColor=FFFFFF&fontAlignY=38&desc=Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=58&descSize=15&animation=fadeIn" width="100%" alt="Animated profile banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,35:5B21B6,70:8B5CF6,100:C4B5FD&height=220&section=header&text=SANGEETH%20PALLIYAL&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20JAVA%20%7C%20AI%20ENGINEERING&descSize=13&descAlignY=58&animation=fadeIn" width="100%" alt="Purple animated developer banner"/>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+in+Progress;Java+%7C+Spring+Boot+%7C+Web+Development;Building+Projects+That+Solve+Real+Problems;Always+Learning.+Always+Building." alt="Typing animation"/>
-  </a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Initializing+Developer+Mode...;Building+with+Java+%26+Spring+Boot;Exploring+AI-powered+Applications;Turning+Ideas+into+Working+Software;Quest+Accepted%3A+Build+Something+Great!" alt="Animated typing introduction"/>
+</a>
 
-  <p>
-    <a href="https://github.com/sangeethpalliyal">
-      <img src="https://komarev.com/ghpvc/?username=sangeethpalliyal&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views"/>
-    </a>
-    <a href="https://github.com/sangeethpalliyal?tab=followers">
-      <img src="https://img.shields.io/github/followers/sangeethpalliyal?style=for-the-badge&color=0891B2&labelColor=09090F&label=FOLLOWERS" alt="GitHub followers"/>
-    </a>
-  </p>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=sangeethpalliyal&style=for-the-badge&color=7C3AED&label=PROFILE+VISITORS" alt="Profile visitor counter"/>
+<img src="https://img.shields.io/badge/STATUS-BUILDING%20THE%20FUTURE-8B5CF6?style=for-the-badge&labelColor=170B2C" alt="Developer status"/>
+<img src="https://img.shields.io/badge/CLASS-FULL--STACK%20DEVELOPER-A78BFA?style=for-the-badge&labelColor=170B2C" alt="Developer class"/>
+
+<br/><br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Explore%20My%20Code-C4B5FD?style=for-the-badge&logo=github&logoColor=white&labelColor=170B2C)](https://github.com/sangeethpalliyal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=170B2C)](https://linkedin.com/in/sangeeth-palliyal-06476a375)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solve%20a%20Quest-A78BFA?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=170B2C)](https://leetcode.com/sangeethpalliyal1357)
 
 </div>
 
 ---
 
-## `whoami` 👨‍💻
+## `01` // PLAYER PROFILE
 
-```text
-Name       : Sangeeth Palliyal
-Location   : Kerala, India 🇮🇳
-Role       : Developer | Tech Enthusiast
-Interests  : Backend Development, Full-Stack Engineering, AI
-Mindset    : Learn → Build → Improve → Repeat
+<img align="right" width="170" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animated developer coding"/>
+
+```yaml
+player: Sangeeth Palliyal
+class: Full-Stack Developer
+location: Kerala, India
+primary_language: Java
+backend: Spring Boot
+special_interest: AI-powered applications
+mindset: Learn -> Build -> Improve -> Repeat
+current_mission: Build software that matters
 ```
 
-I'm passionate about building useful software, exploring modern technologies,
-and turning ideas into practical applications.
+I'm a developer passionate about building practical applications, designing reliable backend systems, and exploring how AI can make software smarter.
 
-- 💻 Interested in Java, backend engineering, and full-stack development.
-- 🧠 Exploring AI-powered applications and intelligent software.
-- 🛠️ Focused on writing clean code and building real-world projects.
-- 📚 Continuously learning, experimenting, and improving.
-- 🎯 Goal: Build impactful products and grow as a software engineer.
+- ⚡ Building applications with Java and Spring Boot.
+- 🧠 Exploring AI integration and intelligent automation.
+- 🛠️ Interested in APIs, databases, and scalable application architecture.
+- 🎯 Always working to level up my development skills.
+- 🤝 Open to learning, collaboration, and interesting projects.
 
----
-
-## ⚡ Tech Stack
-
-### 💻 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,c,cpp,php" alt="Programming languages"/>
-</p>
-
-### 🌐 Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react" alt="Frontend technologies"/>
-</p>
-
-### ⚙️ Backend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express" alt="Backend technologies"/>
-</p>
-
-### 🗄️ Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" alt="Database technologies"/>
-</p>
-
-### 🧰 Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,linux,vscode" alt="Developer tools"/>
-</p>
-
-> Keep only the technologies you can confidently discuss in an interview.
+<br clear="right"/>
 
 ---
 
-## 🚀 Featured Projects
+## `02` // SKILL TREE
+
+> Unlocking new abilities, one project at a time.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚔️ Backend Engineering
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,maven&theme=dark" alt="Java, Spring, Maven"/>
+</p>
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-Exploring-7C3AED?style=flat-square&logo=springboot&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-Development-8B5CF6?style=flat-square)
+![Microservices](https://img.shields.io/badge/Microservices-Architecture-A78BFA?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" alt="HTML, CSS, JavaScript, React, Tailwind CSS"/>
+</p>
+
+![Responsive UI](https://img.shields.io/badge/Responsive_UI-Design-7C3AED?style=flat-square)
+![Web Apps](https://img.shields.io/badge/Web_Apps-Building-8B5CF6?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI & Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python"/>
+</p>
+
+![Spring AI](https://img.shields.io/badge/Spring_AI-Exploring-7C3AED?style=flat-square)
+![AI Integration](https://img.shields.io/badge/AI_Integration-Projects-8B5CF6?style=flat-square)
+![Automation](https://img.shields.io/badge/Automation-Learning-A78BFA?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧰 Developer Arsenal
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,mysql,mongodb,postgres,postman&theme=dark" alt="Git, GitHub, MySQL, MongoDB, PostgreSQL, Postman"/>
+</p>
+
+![Version Control](https://img.shields.io/badge/Git%20%26%20GitHub-Workflow-7C3AED?style=flat-square)
+![API Testing](https://img.shields.io/badge/API_Testing-Postman-8B5CF6?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+---
+
+## `03` // QUEST LOG
 
 <div align="center">
 
-  <a href="https://github.com/sangeethpalliyal?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sangeethpalliyal&repo=REPLACE_WITH_PROJECT_REPO&theme=tokyonight&hide_border=true" alt="Featured project"/>
-  </a>
+| QUEST | OBJECTIVE | STATUS |
+|:---|:---|:---:|
+| 🟣 Backend Builder | Develop Java and Spring Boot applications | `IN PROGRESS` |
+| 🔮 AI Explorer | Integrate AI into useful applications | `IN PROGRESS` |
+| 🛡️ System Architect | Learn secure and maintainable application design | `IN PROGRESS` |
+| ⚡ Problem Solver | Improve programming and problem-solving skills | `DAILY QUEST` |
 
 </div>
 
-Explore my repositories for projects, experiments, and practical implementations.
-
-<p align="center">
-  <a href="https://github.com/sangeethpalliyal?tab=repositories">
-    <img src="https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>
-  </a>
-</p>
-
-<!-- Add more project cards when you have selected your best repositories. -->
+> Quest progress reflects my current learning goals, not an automated measurement of completed work.
 
 ---
 
-## 📊 GitHub Analytics
+## `04` // FEATURED MISSIONS
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sangeethpalliyal&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+<a href="https://github.com/sangeethpalliyal?tab=repositories">
+  <img src="https://img.shields.io/badge/01-EXPLORE%20MY%20PROJECTS-7C3AED?style=for-the-badge&labelColor=170B2C" alt="Explore projects"/>
+</a>
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangeethpalliyal&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+<br/>
 
-  <br/>
+**Every repository is another opportunity to build, experiment, and improve.**
 
-  <img width="70%" src="https://streak-stats.demolab.com?user=sangeethpalliyal&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+Check out my repositories for application development, backend engineering, and AI-related experiments.
+
+</div>
+
+<!--
+For a project showcase, replace the section above with repository cards
+once you have selected your actual public project repositories.
+-->
+
+---
+
+## `05` // DEVELOPER STATISTICS
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sangeethpalliyal&show_icons=true&hide_border=true&bg_color=0D0221&title_color=C4B5FD&text_color=E9D5FF&icon_color=A78BFA&ring_color=8B5CF6&include_all_commits=true" alt="GitHub statistics"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangeethpalliyal&layout=compact&hide_border=true&bg_color=0D0221&title_color=C4B5FD&text_color=E9D5FF" alt="Most used programming languages"/>
+
+<br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=sangeethpalliyal&hide_border=true&background=0D0221&ring=8B5CF6&fire=C4B5FD&currStreakLabel=C4B5FD&sideLabels=A78BFA&currStreakNum=FFFFFF&sideNums=E9D5FF&dates=9CA3AF" alt="GitHub contribution streak"/>
+
+<br/><br/>
+
+<a href="https://github.com/sangeethpalliyal?tab=repositories">
+  <img src="https://github-profile-trophy.vercel.app/?username=sangeethpalliyal&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=4" width="90%" alt="GitHub achievement trophies"/>
+</a>
 
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
+## `06` // CONTRIBUTION MATRIX
 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=sangeethpalliyal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%" alt="GitHub trophies"/>
+<img src="https://raw.githubusercontent.com/sangeethpalliyal/sangeethpalliyal/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution snake"/>
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## `07` // CONNECT WITH THE PLAYER
 
 <div align="center">
 
-  <a href="https://linkedin.com/in/sangeeth-palliyal-06476a375">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.leetcode.com/sangeethpalliyal1357">
-    <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="mailto:sangeethpalliyal1357@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+### Have an idea? Let's build something remarkable.
 
-  <br/><br/>
+<a href="mailto:sangeethpalliyal1357@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Start%20a%20Conversation-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=170B2C" alt="Email Sangeeth"/>
+</a>
 
-  <i>“Great software is built one thoughtful line of code at a time.”</i>
+<a href="https://linkedin.com/in/sangeeth-palliyal-06476a375">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=170B2C" alt="LinkedIn profile"/>
+</a>
 
-  <br/><br/>
+<br/><br/>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:312E81,100:09090F&height=110&section=footer" width="100%" alt="Footer banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:5B21B6,100:8B5CF6&height=120&section=footer" width="100%" alt="Purple footer banner"/>
+
+**`GAME ON. KEEP BUILDING. KEEP EVOLVING.`**
+
+<sub>Designed with 💜 by Sangeeth Palliyal · Powered by curiosity and code.</sub>
 
 </div>
